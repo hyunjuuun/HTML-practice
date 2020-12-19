@@ -9,6 +9,7 @@ Screenshots
 --------------
 
 <div>
-  <img width="200" src="https://user-images.githubusercontent.com/62004474/102679982-b8515e80-41f7-11eb-8481-6828eae2b995.PNG">
-  <img width="200" src="https://user-images.githubusercontent.com/62004474/102680001-e6cf3980-41f7-11eb-87bb-158e2350eed3.PNG">
+  <img width="250" src="https://user-images.githubusercontent.com/62004474/102680032-37df2d80-41f8-11eb-8528-c8d8a811efc6.PNG">
+  <img width="250" src="https://user-images.githubusercontent.com/62004474/102679982-b8515e80-41f7-11eb-8481-6828eae2b995.PNG">
+  <img width="250" src="https://user-images.githubusercontent.com/62004474/102680001-e6cf3980-41f7-11eb-87bb-158e2350eed3.PNG">
 </div>
